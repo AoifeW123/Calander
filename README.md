@@ -13,6 +13,8 @@ Epics
 
 Asthetic or non essential requirements
 
+As a user, I would like to have the calander format the text into a readable structure.
+
 #### User Stories
 
 As a user, I would like to be able to retrieve my files and view them in a clear format.
@@ -21,7 +23,7 @@ As a user, I would like to be able edit these files that I have retrieved.
 
 As a user, I would like to create new files that can be stored and retrieved in the future.
 
-As a user, I would like to have the calander format the text into a readable structure.
+
 
 #### How We Addressed The Requirements
 
