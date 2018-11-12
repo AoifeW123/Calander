@@ -62,6 +62,8 @@ Making sure that the code is readable and is understood, through the use of spel
 
 Adding comments to the code so that each section is detailed on the use of it.
 
+
+
 ### V. Research
 
 ### VI. Project Management
