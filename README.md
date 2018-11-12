@@ -70,3 +70,5 @@ Flowchart showing how the program will work
 
 Functions
 Descriptions of functions given on flowchart
+
+### VII.Evlauation
